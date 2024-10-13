@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BV61Qrc0.js";const c=JSON.parse('{"title":"枚举","description":"","frontmatter":{},"headers":[],"relativePath":"solidity/enum.md","filePath":"solidity/enum.md"}'),t={name:"solidity/enum.md"},h=n("",14),p=[h];function l(e,k,d,E,o,y){return a(),i("div",null,p)}const g=s(t,[["render",l]]);export{c as __pageData,g as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BV61Qrc0.js";const y=JSON.parse('{"title":"变量","description":"","frontmatter":{},"headers":[],"relativePath":"solidity/var.md","filePath":"solidity/var.md"}'),l={name:"solidity/var.md"},t=n("",24),e=[t];function p(h,k,d,c,o,r){return a(),i("div",null,e)}const g=s(l,[["render",p]]);export{y as __pageData,g as default};

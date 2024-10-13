@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BV61Qrc0.js";const y=JSON.parse('{"title":"执行事件查询","description":"","frontmatter":{},"headers":[],"relativePath":"web3js/query.md","filePath":"web3js/query.md"}'),t={name:"web3js/query.md"},h=n("",5),l=[h];function p(k,e,r,E,d,c){return a(),i("div",null,l)}const o=s(t,[["render",p]]);export{y as __pageData,o as default};

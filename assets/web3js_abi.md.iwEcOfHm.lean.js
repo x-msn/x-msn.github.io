@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as t}from"./chunks/framework.BV61Qrc0.js";const o=JSON.parse('{"title":"ABI 合约对象","description":"","frontmatter":{},"headers":[],"relativePath":"web3js/abi.md","filePath":"web3js/abi.md"}'),h={name:"web3js/abi.md"},k=t("",16),E=[k];function n(p,l,e,F,d,r){return a(),i("div",null,E)}const u=s(h,[["render",n]]);export{o as __pageData,u as default};

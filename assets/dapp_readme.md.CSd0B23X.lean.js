@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a2 as o}from"./chunks/framework.BV61Qrc0.js";const f=JSON.parse('{"title":"前言","description":"","frontmatter":{},"headers":[],"relativePath":"dapp/readme.md","filePath":"dapp/readme.md"}'),d={name:"dapp/readme.md"},r=o("",5),c=[r];function s(_,n,p,h,i,l){return t(),a("div",null,c)}const u=e(d,[["render",s]]);export{f as __pageData,u as default};

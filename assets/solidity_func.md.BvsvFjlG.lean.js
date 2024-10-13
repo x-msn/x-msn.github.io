@@ -1,0 +1,1 @@
+import{_ as i,c as s,o as a,a2 as n}from"./chunks/framework.BV61Qrc0.js";const g=JSON.parse('{"title":"函数","description":"","frontmatter":{},"headers":[],"relativePath":"solidity/func.md","filePath":"solidity/func.md"}'),t={name:"solidity/func.md"},e=n("",12),l=[e];function h(p,k,d,c,o,r){return a(),s("div",null,l)}const y=i(t,[["render",h]]);export{g as __pageData,y as default};

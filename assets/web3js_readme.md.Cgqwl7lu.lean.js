@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as e}from"./chunks/framework.BV61Qrc0.js";const g=JSON.parse('{"title":"前言","description":"","frontmatter":{},"headers":[],"relativePath":"web3js/readme.md","filePath":"web3js/readme.md"}'),n={name:"web3js/readme.md"},t=e("",11),h=[t];function l(p,k,d,r,o,c){return a(),i("div",null,h)}const E=s(n,[["render",l]]);export{g as __pageData,E as default};

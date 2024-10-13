@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BV61Qrc0.js";const c=JSON.parse('{"title":"日志","description":"","frontmatter":{},"headers":[],"relativePath":"solidity/log.md","filePath":"solidity/log.md"}'),h={name:"solidity/log.md"},l=n("",12),t=[l];function p(k,e,d,E,r,g){return a(),i("div",null,t)}const o=s(h,[["render",p]]);export{c as __pageData,o as default};

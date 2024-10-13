@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as r}from"./chunks/framework.BV61Qrc0.js";const u=JSON.parse('{"title":"环境搭建","description":"","frontmatter":{},"headers":[],"relativePath":"web3js/setup.md","filePath":"web3js/setup.md"}'),s={name:"web3js/setup.md"},n=r("",6),c=[n];function o(h,i,_,d,l,p){return a(),t("div",null,c)}const m=e(s,[["render",o]]);export{u as __pageData,m as default};
